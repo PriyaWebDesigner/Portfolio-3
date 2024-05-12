@@ -185,6 +185,9 @@ a:hover {
   margin-bottom: 2rem;
 }
 
+
+
+
 .title-left {
   font-size: 2rem;
   position: relative;
@@ -850,6 +853,8 @@ a:hover {
   padding-bottom: 4rem;
 }
 
+
+
 .about-mf .about-img {
   margin-bottom: 2rem;
   margin-top: 10px;
@@ -909,7 +914,7 @@ a:hover {
 }
 
 .skill-mf{
-  margin-top: 30px ;
+  margin-top: 20px ;
 }
 /*--------------------------------------------------------------
 # Services
@@ -1286,7 +1291,14 @@ a:hover {
   font-size: 17px;
   font-weight: 400;
   border: 2px solid black;
-  margin-top: 8px;
+  /* margin-top: 8px; */
+}
+
+.custom-mg{
+   margin-top: 8px;
+}
+.custom-margin{
+  margin-top: 3px;
 }
 
 .php-email-form input:hover,
@@ -1296,6 +1308,8 @@ a:hover {
   transition: all 500ms ease;
   /* box-shadow:#ed3c0d; */
 }
+
+
 
 .php-email-form input {
   padding: 10px 15px;
