@@ -987,10 +987,20 @@ a:hover {
   text-align: center;
   font-weight: 500;
 }
+.custom-box {
+  position: relative;
+  overflow: hidden;
+  background: white; /* Initial background color */
+  transition: background 0.5s ease;
+  padding: 20px; /* Add padding to make content look better */
+  border: 1px solid #ddd; /* Add a border */
+  border-radius: 10px; /* Optional: Add rounded corners */
+}
 
 .custom-box:hover {
-  background-color: #0078ff;
+  /* background-color: #0078ff; */
   height: 85%;
+  background: linear-gradient(to bottom, #ffcccc, #ff6666);
   
 
   
