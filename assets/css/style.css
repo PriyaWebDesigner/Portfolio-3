@@ -998,9 +998,9 @@ a:hover {
 }
 
 .custom-box:hover {
-  /* background-color: #0078ff; */
+  background-color: #0078ff;
   height: 85%;
-  background: linear-gradient(to bottom, #ffcccc, #ff6666);
+  /* background: linear-gradient(to bottom, #ffcccc, #ff6666); */
   
 
   
